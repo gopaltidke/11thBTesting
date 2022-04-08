@@ -24,7 +24,8 @@ public class Concrete extends Sample {
 	{
 		System.out.println("Method from concrete class");
 		System.out.println("Hi I am newly added line");
-		System.out.println("Thank you");
+		System.out.println("Thank you All");
+		
 	}
 
 	
