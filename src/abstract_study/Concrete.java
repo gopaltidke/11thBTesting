@@ -23,6 +23,8 @@ public class Concrete extends Sample {
 	public  void test5()
 	{
 		System.out.println("Method from concrete class");
+		System.out.println("Hi I am newly added line");
 	}
 
+	
 }
