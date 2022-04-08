@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="testNGStudy.MyTest"/>
+      <class>
+      <methods/>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

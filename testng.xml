@@ -1,0 +1,13 @@
+
+<suite name="Suite"><!--this is comment-->
+  <test name="Test">
+    <classes>
+      <class name="testNGxmlStudy.MyClass">
+      <methods>
+      <include name="TC1"/>
+      <include name="TC2"/>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
