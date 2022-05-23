@@ -11,6 +11,10 @@ public abstract  class Sample
 	public void test1()
 	{
 		System.out.println("This is complete method ");
+		System.out.println("This ");
+		System.out.println("T ");
+		
+	
 	}
 	
 	public void test2()
